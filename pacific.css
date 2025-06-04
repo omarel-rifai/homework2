@@ -107,3 +107,18 @@ footer {
     clear: both;
     border-top: 1px solid #CCCCCC;
 }
+
+footer {
+    background-color: white;
+    color: #666666;
+    text-align: center;
+    padding: 10px 0;
+    font-family: Georgia, "Times New Roman", serif;
+    clear: both;
+    border-top: 1px solid #CCCCCC;
+}
+
+footer,
+footer a {
+    font-style: italic;
+}
